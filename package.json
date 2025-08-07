@@ -1,6 +1,7 @@
 {
   "name": "@arifszn/gitprofile",
   "description": "Create an automatic portfolio based on GitHub profile",
+  "homepage": "https://ghayeth-bhr.github.io/MyPortfolio1/",
   "version": "4.0.0",
   "type": "module",
   "license": "MIT",
@@ -23,6 +24,7 @@
     "start": "vite"
   },
   "dependencies": {
+    "gh-pages": "^6.3.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
